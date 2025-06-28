@@ -1,7 +1,16 @@
-env/
+# Byte-compiled / cache files
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+
+# Virtual environment
+env/
+
+# SQLite DB
 *.sqlite3
+
+# Logs
 *.log
+
+# OS / editor files
+.DS_Store
 .vscode/
